@@ -8,8 +8,8 @@ Freelance order for a student
 
 # Входные данные
 
-Ориентированный граф (связи между вершинами и названия вершин). Связи указываются построчно в файле '~/strongly-connected/graph_text.txt'
-В моём случае файл ``~/strongly-connected/graph_text.txt`` является текстовым аналогом графа '~/strongly-connected/kosarajus-algorithm/graph.png'
+Ориентированный граф (связи между вершинами и названия вершин). Связи указываются построчно в файле ``~/strongly-connected/graph_text.txt``
+В моём случае файл ``~/strongly-connected/graph_text.txt`` является текстовым аналогом графа ``~/strongly-connected/kosarajus-algorithm/graph.png``
 
 # Выходные данные
 
