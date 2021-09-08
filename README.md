@@ -14,14 +14,14 @@ Freelance order for a student
 # Выходные данные
 
 После исполнения работы программы в окне терминала будет получен список, элементами которого будут множества. Элементами каждого множества будут названия вершин — каждое множество является одним максимально сильно связным компонентом.
-Так же будет создан файл '~/strongly-connected/graph_pic.png'. Это графическое отображение графа '~/strongly-connected/graph_text.txt'
+Так же будет создан файл ``~/strongly-connected/graph_pic.png``. Это графическое отображение графа ``~/strongly-connected/graph_text.txt``
 
 # Описание
 
 Для разложения графа на максимально сильно связные компоненты программа использует алгоритм Косараджу.
-Построение графа, а так же использование алгоритма Косараджу основано на библиотеке 'networkx'.
-Отображение графа основано на модуле 'matplotlib.pyplot' библиотеки 'matplotlib'.
-Дополнительные материалы вы можете найти в '~/strongly-connected/block-diagram' и в '~/strongly-connected/kosarajus-algorithm'
+Построение графа, а так же использование алгоритма Косараджу основано на библиотеке ``networkx``.
+Отображение графа основано на модуле ``matplotlib.pyplot`` библиотеки ``matplotlib``.
+Дополнительные материалы вы можете найти в ``~/strongly-connected/block-diagram`` и в ``~/strongly-connected/kosarajus-algorithm``
 
 
 
@@ -29,7 +29,7 @@ Freelance order for a student
 
 Вы можете использовать виртуальное окружение на вашей машине, если вам так удобнее.
 
-* 'cd ~/strongly-connected'
-* 'pip3 install -U pip'
-* 'pip3 install -r requirements.txt'
-* 'python3 main.py'
+* ``cd ~/strongly-connected``
+* ``pip3 install -U pip``
+* ``pip3 install -r requirements.txt``
+* ``python3 main.py``
