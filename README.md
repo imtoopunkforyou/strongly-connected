@@ -1,4 +1,4 @@
-# strongly-connected
+# strongly connected
 
 Freelance order for a student
 
