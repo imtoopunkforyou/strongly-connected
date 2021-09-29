@@ -30,6 +30,7 @@ Freelance order for a student
 
 Вы можете использовать виртуальное окружение на вашей машине, если вам так удобнее.
 
+* ``git clone https://github.com/imtoopunkforyou/strongly-connected.git``
 * ``cd ~/strongly-connected``
 * ``pip3 install -U pip``
 * ``pip3 install -r requirements.txt``
